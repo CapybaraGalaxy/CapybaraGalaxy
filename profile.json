@@ -38,19 +38,19 @@
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "Sobre mí",
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Desarrollador y diseñador"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Herramientas HTML"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Material design ✦ Neo-Glass pure dark"
       }
     ]
   },
