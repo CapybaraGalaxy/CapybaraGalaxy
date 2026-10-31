@@ -1,5 +1,5 @@
 {
- "key": "68e91feb",
+ "key": "aa9f12a7",
  "stars": 1,
  "contributions": 0,
  "repos": 4,
@@ -149,11 +149,20 @@
   {
    "name": "HOMESCREEN",
    "url": "https://github.com/CapybaraGalaxy/HOMESCREEN",
-   "text": "",
+   "text": "Homescreen junta todas las herramientas que usas a diario en una misma interfaz moderna, minimalista y útil. Gratis, sin anuncios, local.",
    "fork": false,
    "stars": 1,
    "language": "HTML",
-   "topics": []
+   "topics": [
+    "homepage",
+    "homepage-app",
+    "html",
+    "modern-ui",
+    "pwa",
+    "pwa-apps",
+    "utility",
+    "guilleplayer"
+   ]
   },
   {
    "name": "GP-Learn",
