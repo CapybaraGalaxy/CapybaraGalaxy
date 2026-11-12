@@ -1,5 +1,5 @@
 {
- "key": "f33185dc",
+ "key": "3514b878",
  "stars": 1,
  "contributions": 166,
  "repos": 5,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "HTML",
-   3829427
+   3829424
   ],
   [
    "JavaScript",
@@ -112,9 +112,13 @@
    {
     "c": 1,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
