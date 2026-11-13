@@ -1,13 +1,13 @@
 {
- "key": "1cab199",
+ "key": "df8955b",
  "stars": 1,
- "contributions": 166,
+ "contributions": 167,
  "repos": 5,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   3829424
+   3829428
   ],
   [
    "JavaScript",
@@ -120,7 +120,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 13,
     "today": true
    },
@@ -128,14 +128,14 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [
   {
    "name": "HOMESCREEN",
    "url": "https://github.com/CapybaraGalaxy/HOMESCREEN",
-   "text": "Homescreen junta todas las herramientas que usas a diario en una misma interfaz moderna, minimalista y útil. Gratis, sin anuncios, local.",
+   "text": "Homescreen reúne todas las herramientas que usas a diario en una misma interfaz moderna, minimalista y útil. Gratis, sin anuncios, local.",
    "fork": false,
    "stars": 1,
    "language": "HTML",
@@ -164,7 +164,7 @@
   {
    "name": "HOMESCREEN",
    "url": "https://github.com/CapybaraGalaxy/HOMESCREEN",
-   "text": "Homescreen junta todas las herramientas que usas a diario en una misma interfaz moderna, minimalista y útil. Gratis, sin anuncios, local.",
+   "text": "Homescreen reúne todas las herramientas que usas a diario en una misma interfaz moderna, minimalista y útil. Gratis, sin anuncios, local.",
    "fork": false,
    "stars": 1,
    "language": "HTML",
