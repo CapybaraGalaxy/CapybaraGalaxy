@@ -1,5 +1,5 @@
 {
- "key": "3514b878",
+ "key": "1cab199",
  "stars": 1,
  "contributions": 166,
  "repos": 5,
@@ -117,14 +117,18 @@
    {
     "c": 0,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 5
  },
  "pins": [
